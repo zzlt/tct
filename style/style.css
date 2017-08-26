@@ -1,0 +1,158 @@
+@charset "utf-8";
+/* CSS Document */
+body,p,h1,ul,li,menu,input,form,dl,dd{ margin:0; padding:0}
+body{ font-family:"微软雅黑"; font-size:13px}
+ul,li{list-style:none}
+a{ text-decoration:none; color:#888;}
+header,footer,menu,nav,section{ display:block}
+#top{background-color:#fafafa;box-shadow:2px 2px 2px #999}
+#topCont{margin:0 auto;width:90%;height:30px; min-width:535px}
+p.wel{ float:left; width:195px; line-height:30px; color:#888}
+p.wel a{ color:#4c9ffb}
+p.wel a:hover{ text-decoration:underline}
+menu.listT{float:right;width:340px;line-height:30px}
+menu.listT a{padding:12px; background:url(../images/sanjiao.png) no-repeat right}
+#headCont{ margin:0 auto; width:90%; height:110px;margin-top:3px; min-width:555px}
+h1.logo{float:left; width:13.428571%; margin-top:15px; margin-right:2.153846%}
+h1.logo img{ width:100%; max-width:141px; min-width:100px}
+p.city{float:left; width:106px; margin-top:15px;border-left:2px #ccc solid;height:59px;padding-left:2.153846%;
+padding-top:16px; color:#777}
+p.city span{ display:block; line-height:22px}
+p.city a{ color:#f60}
+#forms{float:left; width:38.095238%; margin-top:34px; height:38px}
+input.sear{width:81.5%; height:35px; border:2px #f60 solid; float:left;padding-left:5px;font-family:"微软雅黑"}
+input.sub{width:15.5%; float:left; height:35px; background-color:#f60; text-align:center; line-height:35px;
+border:0; color:#fff; font-size:15px; font-family:"微软雅黑"}
+div.promise{ float:right; width:25.809524%;margin-top:18px}
+dl.prom{width:33.3333%;float:left;text-align:center}
+dl.prom dd{width:100%}
+dl.prom a:hover{ text-decoration:underline}
+nav{background-color:#ff7900; width:100%; height:42px}
+#nav{margin:0 auto;width:1050px}
+#nav li{float:left;color:#fff;line-height:42px}
+#nav li a{color:#fff;font-size:18px; float:left;padding:0 20px}
+#nav>li>a.select,#nav>li>a:hover{background-color:#fe6307}
+#nav a.type{width:226px;float:left;text-align:center;padding:0; background:#ff9233 url(../images/ico5.png) no-repeat 162px}
+#nav a.type:hover{ background-color:#ff9233}
+#navL{border:1px #DFDFDF solid; background-color:#f9f9f9; width:224px; float:left; border-bottom:0}
+#navL li{line-height:51px; border-bottom:1px #DFDFDF solid;height:51px}
+#navL li b{float:left;width:56px;padding-left:20px}
+#navL li b a{color:#323232;font-size:16px; padding:0}
+#navL li span{float:right;width:140px}
+#navL li span a{ float:left;color:#888; font-size:13px; padding:0; padding-right:8px}
+#navL li a:hover{ text-decoration:underline; color:#f60}
+#box{margin:0 auto; width:1050px;overflow:hidden;zoom:1}
+#banner{float:left; width:823px }
+#banner img{ display:block;border-right:1px #ccc solid}
+#tab img{display:block; float:left;border:1px #ccc solid}
+#tab{position:relative; float:left; width:824px}
+#img{ margin:0 auto; margin-left:25px}
+p.le,p.rig{ background-color:#ccc}
+p.le{ position:absolute;left:0;top:0; background-color:#ccc; width:31px; height:124px}
+p.rig{ position:absolute;right:0;top:0;background-color:#ccc;width:31px; height:124px}
+img.left,img.right{ margin-top:40px}
+section{margin-top:10px;clear:both; overflow:hidden;zoom:1}
+dl.title{ border-bottom:2px #f60 solid; height:38px; line-height:38px; padding-top:20px}
+dl.title dt.ico{ float:left; width:23px;height:30px;padding-left:8px}
+dl.title dt.ico img{ margin-top:7px; }
+dl.title dd.tit{ float:left; width:55px; color:#f60; font-size:20px; padding-left:13px}
+dl.title dd.more{ float:right; width:84px}
+dl.title dd.more a{ color:#4c9ffb}
+dd.more a:hover{ text-decoration:underline}
+dl.food{float:left;width:249px;margin-top:15px;border:1px #F0F2F1 solid; margin-left:10px; padding-bottom:10px; display:inline}
+dl.sele{border:1px #f60 solid}
+dl.food dd{ line-height:25px; padding:0 7px}
+dl.food dd.foods a{ color:#3E3E3E}
+dd.second a{ color:#999 }
+dd.money{ height:25px;}
+dd.money a.mon{ float:left; color:#f60; font-size:20px}
+dd.money a.mon span{ color:#888; font-size:14px; text-decoration:line-through}
+dd.money a.num{ float:right}
+a.num span{ color:#f60}
+footer{height:320px; border-top:1px #ccc solid; margin-top:30px}
+#foot{ width:100%; background-color:#fafafa; padding-top:10px}
+#listing{height:180px;padding-top:20px}
+#entry{width:960px;margin:0 auto;height:160px; padding-left:40px}
+ul.after{float:left;margin-right:90px;font-size:13px;width:100px}
+ul.after a{color:#5B6166;float:left;line-height:23px}
+ul.after a.bold{font-weight:bold;font-size:15px}
+ul.after a:hover{text-decoration:underline}
+p.link{height:40px; clear:both;width:405px; margin:10px auto}
+p.link img{ margin-right:2px}
+aside{ font-size:12px; text-align:center; margin-top:20px; color:#676767}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
